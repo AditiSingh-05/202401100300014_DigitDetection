@@ -32,6 +32,11 @@ from tensorflow.keras.layers import Dense, Flatten
 X_test.shape
 
 y_train
+``` 
+```
+(10000, 28, 28)  # Shape of X_test
+
+array([5, 0, 4, ..., 5, 6, 8], dtype=uint8)  # Sample output of y_train
 ```
 
 
